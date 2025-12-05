@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It creates a combinational logic circuit of a 2 to 4 binary decoder
 
 ## How to test
 
-Explain how to use your project
+All you need to do is hit the play button
 
 ## External hardware
 
